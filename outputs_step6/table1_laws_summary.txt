@@ -1,0 +1,64 @@
+============================================================
+TABLE 1 — A Summary of the Laws in All States (ADAPTED)
+Dates are reconstructed as YEARS from ds/dp/dsp (no month/day).
+Usage columns use usage(t-1) / usage(t) around adoption years.
+============================================================
+
+St   | SecYr  | PrimYr | BeforeLaw  | AfterLaw     | BeforeChange   | AfterChange      | In1998  
+--------------------------------------------------------------------------------------------------
+AK   | 1991   | NA     | 45%        | 66%          | NA             | NA               | 69%     
+AL   | 1992   | NA     | 47%        | 58%          | NA             | NA               | 52%     
+AR   | 1991   | NA     | 34%        | 52%          | NA             | NA               | 48%     
+AZ   | 1991   | NA     | 55%        | 65%          | NA             | NA               | 63%     
+CA   | 1986   | 1993   | 26%        | 45%          | 67%            | 81%              | 85%     
+CO   | 1987   | NA     | NA         | NA           | NA             | NA               | 59%     
+CT   | NA     | 1986   | NA         | NA           | NA             | NA               | 64%     
+DC   | 1986   | 1997   | NA         | NA           | 58%            | 66%              | 66%     
+DE   | 1992   | NA     | 54%        | 70%          | NA             | NA               | 59%     
+FL   | 1987   | NA     | 34%        | 55%          | NA             | NA               | 60%     
+GA   | 1988   | 1996   | 20%        | 28%          | 51%            | 61%              | 68%     
+HI   | NA     | 1986   | 33%        | 73%          | NA             | NA               | 80%     
+IA   | NA     | 1986   | 18%        | 43%          | NA             | NA               | 75%     
+ID   | 1986   | NA     | 23%        | 27%          | NA             | NA               | 49%     
+IL   | 1986   | NA     | 16%        | 36%          | NA             | NA               | 64%     
+IN   | 1987   | NA     | 20%        | 37%          | NA             | NA               | 63%     
+KS   | 1986   | NA     | 10%        | 24%          | NA             | NA               | 56%     
+KY   | 1994   | NA     | 42%        | 58%          | NA             | NA               | 54%     
+LA   | 1987   | 1996   | 12%        | 35%          | 59%            | 63%              | 67%     
+MA   | 1994   | NA     | 34%        | 52%          | NA             | NA               | 53%     
+MD   | 1986   | NA     | 18%        | 55%          | NA             | NA               | 71%     
+ME   | 1996   | NA     | 50%        | 50%          | NA             | NA               | 61%     
+MI   | 1986   | NA     | 26%        | 46%          | NA             | NA               | 68%     
+MN   | 1986   | NA     | 20%        | 33%          | NA             | NA               | 65%     
+MO   | 1986   | NA     | NA         | NA           | NA             | NA               | 62%     
+MS   | 1990   | NA     | NA         | 23%          | NA             | NA               | 48%     
+MT   | 1988   | NA     | 40%        | 59%          | NA             | NA               | 73%     
+NC   | NA     | 1986   | 26%        | 42%          | NA             | NA               | 85%     
+ND   | 1989   | NA     | NA         | NA           | NA             | NA               | 49%     
+NE   | 1993   | NA     | 33%        | 54%          | NA             | NA               | 63%     
+NH   | NA     | NA     | NA         | NA           | NA             | NA               | 58%     
+NJ   | 1985   | NA     | 18%        | 40%          | NA             | NA               | 62%     
+NM   | NA     | 1986   | NA         | NA           | NA             | NA               | 87%     
+NV   | 1987   | NA     | 21%        | 34%          | NA             | NA               | 70%     
+NY   | NA     | 1985   | 16%        | 51%          | NA             | NA               | 74%     
+OH   | 1986   | NA     | 19%        | 49%          | NA             | NA               | 65%     
+OK   | 1987   | NA     | 16%        | 35%          | NA             | NA               | 47%     
+OR   | NA     | 1988   | NA         | 47%          | NA             | NA               | 85%     
+PA   | 1988   | NA     | NA         | NA           | NA             | NA               | 65%     
+RI   | 1992   | NA     | 28%        | 32%          | NA             | NA               | 58%     
+SC   | 1990   | NA     | NA         | 49%          | NA             | NA               | 61%     
+SD   | 1995   | NA     | 40%        | 40%          | NA             | NA               | 59%     
+TN   | 1986   | NA     | NA         | NA           | NA             | NA               | 61%     
+TX   | NA     | 1986   | NA         | NA           | NA             | NA               | 75%     
+UT   | 1986   | NA     | NA         | NA           | NA             | NA               | 63%     
+VA   | 1988   | NA     | 32%        | 63%          | NA             | NA               | 67%     
+VT   | 1994   | NA     | 54%        | 68%          | NA             | NA               | 71%     
+WA   | 1987   | NA     | 36%        | 51%          | NA             | NA               | 82%     
+WI   | 1988   | NA     | 26%        | 56%          | NA             | NA               | 62%     
+WV   | 1993   | NA     | 33%        | 55%          | NA             | NA               | 58%     
+WY   | 1989   | NA     | NA         | NA           | NA             | NA               | 75%     
+--------------------------------------------------------------------------------------------------
+
+Total states with Secondary Enforcement: 42 
+Total states with Primary Enforcement  : 12 
+Target year for 'In 1998' column       : 1997 
